@@ -136,7 +136,7 @@ boolean result = mMap.setMapStyle(MapStyleOptions.loadRawResourceStyle(getActivi
 
 4. Setelah itu tinggal kita Run hasilnya
    
-   ![maps](https://user-images.githubusercontent.com/25566307/69491461-2c6fe480-0ec8-11ea-9b6d-0e95d644a936.png)
+  ![maps2](https://user-images.githubusercontent.com/25566307/69491684-d6e90700-0eca-11ea-9c96-8a326b62f59e.png)
 
 
 
